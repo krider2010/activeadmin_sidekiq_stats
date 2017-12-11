@@ -1,6 +1,10 @@
 # ActiveadminSidekiqStats
 
 Get an overview of Sidekiq stats in ActiveAdmin dashboard.
+![](https://raw.githubusercontent.com/BilalBudhani/activeadmin_sidekiq_stats/master/dashboard_screenshot.png)
+
+# Motivation
+I found myself switch dashboards to keep up with the stats of Sidekiq with other business/application metrics. I was looking for single point of information. 
 
 ## Installation
 
