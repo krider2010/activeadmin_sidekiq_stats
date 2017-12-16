@@ -17,7 +17,7 @@ module ActiveAdminSidekiqStats
               stats.each do |process_name, process_value|
                 div style: "display: flex; flex:1; justify-content: center; align-items: center; flex-direction: column" do
                   h1 process_value
-                  span process_name
+                  span process_name.titleize
                 end
               end
             end
