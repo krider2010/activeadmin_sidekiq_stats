@@ -4,7 +4,8 @@ Get an overview of Sidekiq stats in ActiveAdmin dashboard.
 ![](https://raw.githubusercontent.com/BilalBudhani/activeadmin_sidekiq_stats/master/dashboard_screenshot.png)
 
 # Motivation
-I found myself switch dashboards to keep up with the stats of Sidekiq with other business/application metrics. I was looking for single point of information. 
+
+I found myself switch dashboards to keep up with the stats of Sidekiq with other business/application metrics. I was looking for single point of information.
 
 ## Installation
 
@@ -35,3 +36,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/bilalb
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Note from Author
+
+Hi, thanks for checking out this gem. You can read more about me at https://bilalbudhani.com/about or you can follow me at https://twitter.com/BilalBudhani
