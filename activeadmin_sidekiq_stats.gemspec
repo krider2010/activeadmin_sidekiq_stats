@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   end
   spec.require_paths = ["lib"]
 
-  spec.add_dependency("activeadmin", ">= 1.1.0")
+  spec.add_dependency("activeadmin", ">= 1.3.0")
   spec.add_dependency("arbre", ">= 1.1.1")
   spec.add_dependency("sidekiq", ">= 4.0.0")
 end
